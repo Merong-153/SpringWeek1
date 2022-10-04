@@ -19,5 +19,5 @@
 5. 작성한 코드에서 빈(Bean)을 모두 찾아보세요!
  - 컨트롤러에 7개, 서비스에 1개 레파지토리에 1개가 등록되어 관리 되었다
  
-8. API 명세서 작성 가이드라인을 검색하여 직접 작성한 명세서와 비교해보세요!
+8. API 명세서 작성 가이드라인을 검색하여 직접 작성한 명세서와 비교해보세요!(Use Case도 같이있음)
  - https://www.figma.com/file/sf9LiKKQl3tFUFgCikbhOh/Untitled?node-id=0%3A1
